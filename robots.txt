@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iqualsirldo.github.io/sitemap
+Sitemap: https://iqualsirldo.github.io/app/sitemap
+Sitemap: https://iqualsirldo.github.io/assets/sitemap
+Sitemap: https://iqualsirldo.github.io/css/sitemap
+Sitemap: https://iqualsirldo.github.io/includes/sitemap
+Sitemap: https://iqualsirldo.github.io/item/sitemap
+Sitemap: https://iqualsirldo.github.io/src/sitemap
